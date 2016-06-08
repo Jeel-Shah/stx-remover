@@ -1,7 +1,7 @@
 # StackExchange Hot Network Question Remover
 
 A super simple chrome extension that removes the, very distracting, "hot network questions" and 
-the "meta box" well from any stack exchange site. 
+the "meta box" from any stack exchange site. 
 
 ## How to Install
 1. Clone this repo into a folder on your desktop
